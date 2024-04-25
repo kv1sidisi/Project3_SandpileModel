@@ -1,4 +1,4 @@
-# Проект№ 3
+# Проект №3
 
  [Модель песчаной кучи](https://en.wikipedia.org/wiki/Abelian_sandpile_model), которая позволяет сохранять свои состояния в картинку в [формате BMP](https://en.wikipedia.org/wiki/BMP_file_format).
 
